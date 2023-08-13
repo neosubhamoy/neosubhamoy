@@ -1,5 +1,5 @@
 <div class="ReadmeHeader">
-    <img style="border-radius: 15px; width: 1000px;" src="./assets/images/header.png">
+    <img style="border-radius: 15px; width: 1000px;" src="./assets/images/header.gif">
     <hr>
 </div>
 <div class="RedmeBody" style="font-family: 'Lexend Deca', sans-serif; color:#ffffff;">
@@ -69,7 +69,6 @@
             <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
             <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
             <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-            <img src=""/>
         </div>
         <br>
     </div>
