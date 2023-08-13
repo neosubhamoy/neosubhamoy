@@ -5,7 +5,8 @@
 <div class="RedmeBody" style="font-family: 'Lexend Deca', sans-serif; color:#ffffff;">
     <div align="left">
         <img src="https://readme-typing-svg.herokuapp.com?color=ffffff?&font=Lexend+Deca&center=false&vCenter=false&width=500&height=35&lines=Hello!+👋;Namaste!+🙏;Konnichiwa!+😄;Anyeonghaseyo!+😊;Hola!+😃;Bonjour!+😄;Zdravstvuyte!+🙂;Marhabaan!+😊;Olá!+😃;Salve!+🤠" />
-        <h3>I'm Subhamoy Biswas<br>Full Stack Web, Android Developer & UI/UX Designer</h3>
+        <h3>I'm Subhamoy Biswas</h3>
+        <h4>Full Stack Web, Android Developer & UI/UX Designer</h4>
         <br>
     </div>
     <div class="stats">
