@@ -7,7 +7,7 @@
 
 Hello, There! 👋
 
-I'm Subhamoy Biswas, a professional Full-Stack Web, Cross-Platform Developer, UI/UX Designer, and Freelancer based in Kolkata, India. Specialized in building scalable web, cross-platform apps and modern user interfaces! delivering industry leading solutions for over 8+ years!
+I'm **Subhamoy Biswas**, a professional **Full-Stack Web**, **Cross-Platform Developer**, **UI/UX Designer**, and **Freelancer** based in **Kolkata, India**. Specialized in building scalable web, cross-platform apps and modern user interfaces! delivering industry leading solutions for over **8+** years!
 
 `- "Building Experiances, Not just Apps!"`
 
@@ -16,9 +16,9 @@ I'm Subhamoy Biswas, a professional Full-Stack Web, Cross-Platform Developer, UI
 - 🥰 Always vibing to music and fueled by coffee!
 
 > [!TIP]
-> 🤙 Thinking about building something together? Always feel free to contact me! Would love to connect (Currently only working with small to mid size businessess)
+> **🤙 Thinking about building something together? Always feel free to contact me! Would love to connect (Currently only working with small to mid size businessess)**
 
-## My Favourite Technogies
+## My Favourite Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-0F172A.svg?style=for-the-badge&logo=html5&logoColor=38BDF8)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
