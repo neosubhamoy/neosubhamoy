@@ -53,5 +53,5 @@ I'm **Subhamoy Biswas**, a professional **Full-Stack Web**, **Cross-Platform Dev
 
 ## My GitHub Stats
 
-![ReadmeStreak](https://github-readme-streak-stats.herokuapp.com/?user=neosubhamoy&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff)
-![ReadmeStats](https://github-readme-stats.vercel.app/api?username=neosubhamoy&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=ffffff&border_radius=16)
+![ReadmeStreak](https://github-streak-stats.neosubhamoy.com?user=neosubhamoy&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff)
+![ReadmeStats](https://github-stats.neosubhamoy.com/api?username=neosubhamoy&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=ffffff&border_radius=16)
