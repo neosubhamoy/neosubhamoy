@@ -11,7 +11,7 @@ I'm **Subhamoy Biswas**, a professional **Full-Stack Web**, **Cross-Platform Dev
 
 `- "Building Experiances, Not just Apps!"`
 
-- 🚀 Currently scaling [NeoDLP](https://github.com/neosubhamoy/neodlp) to Millions! (Goal reached ~10% - 100K+)
+- 🚀 Currently scaling [NeoDLP](https://github.com/neosubhamoy/neodlp) to Millions! (Goal reached ~20% - 200K+)
 - 🌱 Learning Advance Rust, Three.js and Motion Microinteractions.
 - 🥰 Always vibing to music and fueled by coffee!
 
@@ -55,5 +55,5 @@ I'm **Subhamoy Biswas**, a professional **Full-Stack Web**, **Cross-Platform Dev
 
 <div class="stats">
     <img align="left" width=380 height=160 style="border-radius: 14px; border: 1px solid white;" src="https://github-streak-stats.neosubhamoy.com?user=neosubhamoy&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff" />
-    <img align="right" width=400 height=165 src="https://github-stats.neosubhamoy.com/api?username=neosubhamoy&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=ffffff&border_radius=16" />
+    <img align="right" width=400 height=165 src="https://github-stats.neosubhamoy.com/api?username=neosubhamoy&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=00000000&border_radius=16" />
 </div>
