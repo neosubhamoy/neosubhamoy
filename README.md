@@ -11,7 +11,7 @@ I'm **Subhamoy Biswas**, a professional **Full-Stack Web**, **Cross-Platform Dev
 
 `- "Building Experiances, Not just Apps!"`
 
-- 🚀 Currently scaling [NeoDLP](https://github.com/neosubhamoy/neodlp) to Millions! (Goal reached ~20% - 200K+)
+- 🚀 Currently scaling [NeoDLP](https://github.com/neosubhamoy/neodlp) to Millions! (Goal reached ~30% - 300K+)
 - 🌱 Learning Advance Rust, Three.js and Motion Microinteractions.
 - 🥰 Always vibing to music and fueled by coffee!
 
